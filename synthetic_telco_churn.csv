@@ -1,0 +1,1001 @@
+Customer ID,Tenure,Monthly Charges,Multiple Lines,Internet Service,Online Security,Tech Support,Contract,Churn
+3889-IDQBN,6,79.29,No,Fiber optic,No,No,One year,Yes
+2626-JBNAL,67,92.31,Yes,Fiber optic,No,No,Two year,No
+8081-BCLVD,41,74.86,No,Fiber optic,No,No,Two year,No
+9279-FQYPK,15,24.15,No phone service,No,No internet service,No internet service,Month-to-month,No
+9450-ZBWHD,22,72.38,No phone service,Fiber optic,No,Yes,Month-to-month,Yes
+5645-DIVEP,35,80.11,No,Fiber optic,No,Yes,Two year,No
+3708-QJOBB,13,30.26,No phone service,DSL,Yes,No,Month-to-month,No
+5748-FRLIP,21,41.36,No,DSL,No,No,Two year,No
+3082-LHUSG,33,89.5,No,Fiber optic,No,No,Two year,No
+9030-ONWSH,7,45.32,No,DSL,No,No,Month-to-month,Yes
+3721-ZDKTD,20,38.49,Yes,No,No internet service,No internet service,Month-to-month,No
+1144-MBRTO,52,88.53,No,Fiber optic,Yes,No,Month-to-month,No
+3300-WISPP,46,19.51,No,No,No internet service,No internet service,Month-to-month,No
+7475-LVYMR,8,50.59,No,DSL,Yes,Yes,Month-to-month,No
+7538-BSQZV,20,65.96,Yes,DSL,No,No,Month-to-month,No
+7849-HKRAM,32,87.32,No,Fiber optic,Yes,Yes,One year,Yes
+2116-EDBTD,7,62.35,Yes,DSL,No,No,Two year,No
+7031-GKWCL,3,53.94,No,DSL,Yes,No,Two year,No
+1896-OWVWH,16,81.27,No,Fiber optic,No,Yes,One year,No
+2745-KJWYD,39,52.08,No,DSL,Yes,No,Two year,No
+8515-EGGMP,3,78.9,No,Fiber optic,Yes,No,Month-to-month,No
+9220-GAKJO,5,66.02,Yes,DSL,No,No,Month-to-month,No
+5163-YRNQR,13,70.0,No,Fiber optic,No,No,One year,Yes
+3155-BXUWU,5,95.9,Yes,Fiber optic,No,No,Month-to-month,No
+8857-KKCQB,4,89.41,Yes,Fiber optic,No,No,Month-to-month,Yes
+3916-BFEIB,11,60.28,Yes,DSL,No,No,Month-to-month,Yes
+2490-ADCJA,22,61.9,Yes,DSL,No,No,Month-to-month,No
+8511-WPDGJ,54,85.09,No,Fiber optic,Yes,Yes,Two year,No
+6667-JDWZM,13,75.43,No,Fiber optic,No,No,One year,Yes
+9284-MCCIG,12,65.22,Yes,DSL,No,Yes,Month-to-month,No
+7766-VEAYN,14,18.25,No,No,No internet service,No internet service,Month-to-month,No
+3371-DOANZ,1,18.25,No,No,No internet service,No internet service,Month-to-month,No
+7543-WSGJE,27,86.28,No,Fiber optic,Yes,No,Month-to-month,No
+5311-UNUIF,7,18.25,No,No,No internet service,No internet service,Month-to-month,No
+6433-VZWUV,8,18.25,No,No,No internet service,No internet service,One year,No
+8648-TFNJA,64,31.26,Yes,No,No internet service,No internet service,Month-to-month,No
+6585-AHGSY,5,79.12,No,Fiber optic,No,No,Month-to-month,No
+5842-LYZYJ,10,68.41,Yes,DSL,Yes,No,Month-to-month,Yes
+4810-FFFFQ,22,91.23,Yes,Fiber optic,No,No,Two year,No
+3048-XVMQU,27,83.05,No,Fiber optic,No,No,Month-to-month,Yes
+4037-CRXUT,11,70.23,Yes,DSL,No,No,Month-to-month,Yes
+4341-MEUIU,10,62.83,No phone service,Fiber optic,No,No,Two year,Yes
+1966-ZKKYS,1,52.4,No,DSL,Yes,No,Month-to-month,Yes
+6689-EDDXU,27,62.71,Yes,DSL,No,Yes,Two year,No
+1012-DVZRJ,72,53.73,No,DSL,Yes,No,One year,No
+7515-ODAZQ,10,36.92,Yes,No,No internet service,No internet service,One year,No
+2689-NYLWV,32,101.07,Yes,Fiber optic,No,Yes,Month-to-month,Yes
+3774-FGHGP,6,50.85,No,DSL,No,Yes,Month-to-month,No
+9380-GKDXJ,12,47.94,No,DSL,No,No,Month-to-month,Yes
+2706-LPXKX,52,98.13,Yes,Fiber optic,No,Yes,Two year,No
+9680-NNNAL,12,53.39,No,DSL,Yes,Yes,Month-to-month,No
+8024-EAUEM,2,36.94,Yes,No,No internet service,No internet service,One year,No
+2551-SOINO,8,89.36,Yes,Fiber optic,No,No,Month-to-month,No
+3731-UCOGH,17,50.04,No,DSL,No,No,Month-to-month,Yes
+4313-UNOTX,8,21.17,No phone service,No,No internet service,No internet service,Month-to-month,No
+3212-LPNNS,19,67.35,Yes,DSL,No,No,Month-to-month,No
+5545-LNMYS,11,100.56,Yes,Fiber optic,No,Yes,Two year,No
+3594-WYGOY,5,69.14,Yes,DSL,No,No,Month-to-month,Yes
+1215-VDDLB,39,105.65,Yes,Fiber optic,Yes,No,Two year,No
+3078-GBRUX,26,101.58,Yes,Fiber optic,Yes,No,One year,Yes
+4967-ESRDW,53,59.22,Yes,DSL,No,No,One year,No
+2203-ZFYKM,22,93.03,Yes,Fiber optic,No,No,One year,Yes
+7346-ZVELN,30,18.25,No,No,No internet service,No internet service,One year,No
+4468-IFISA,12,61.07,Yes,DSL,Yes,No,Month-to-month,No
+5045-OLAIQ,19,103.6,Yes,Fiber optic,Yes,No,Month-to-month,No
+2694-NBZUZ,19,67.22,Yes,DSL,No,Yes,Month-to-month,No
+5673-CGBUH,13,39.65,Yes,No,No internet service,No internet service,Month-to-month,No
+6824-DKXVG,25,97.15,Yes,Fiber optic,No,No,Month-to-month,Yes
+8650-DXOSC,72,78.78,No,Fiber optic,No,Yes,Two year,No
+1930-BRLBY,7,79.73,No,Fiber optic,No,No,Month-to-month,Yes
+6661-QUCWB,17,20.21,No,No,No internet service,No internet service,One year,No
+4209-WLIOY,8,22.78,No,No,No internet service,No internet service,Month-to-month,No
+2089-GDNGC,23,34.55,No phone service,DSL,Yes,Yes,Two year,No
+9534-EBFIH,16,18.25,No,No,No internet service,No internet service,One year,No
+4979-THNEJ,14,21.29,No,No,No internet service,No internet service,Month-to-month,No
+5123-AGATO,72,82.98,No,Fiber optic,No,Yes,Two year,No
+5374-EMYCV,24,66.95,Yes,DSL,Yes,No,Two year,No
+9026-LMVKN,59,25.22,No,No,No internet service,No internet service,Two year,No
+6989-RZIVS,20,76.59,No,Fiber optic,No,No,One year,No
+3052-QKJBD,65,46.0,No,DSL,No,No,Month-to-month,No
+9428-BTGEC,16,83.83,No,Fiber optic,Yes,No,Month-to-month,No
+8071-VWRHG,72,98.89,Yes,Fiber optic,Yes,No,Two year,No
+3019-HLELG,12,81.81,No,Fiber optic,No,No,One year,No
+1776-ZZOGZ,6,71.96,Yes,DSL,Yes,No,Month-to-month,Yes
+9703-IJAJM,50,77.78,No,Fiber optic,No,No,Two year,No
+9560-NFNAG,15,25.03,No phone service,DSL,No,No,One year,Yes
+4273-CKBAH,27,62.38,No,DSL,Yes,Yes,One year,No
+9656-GPNTR,30,97.0,Yes,Fiber optic,No,No,Month-to-month,Yes
+5868-SWKIZ,7,20.66,No,No,No internet service,No internet service,Month-to-month,No
+7226-DSQBV,6,71.68,Yes,DSL,Yes,No,Month-to-month,No
+6607-XQTVD,15,95.24,Yes,Fiber optic,No,No,Month-to-month,No
+2824-NNVUV,34,68.23,Yes,DSL,Yes,Yes,Two year,No
+4331-PXRSF,21,48.06,No,DSL,No,No,Month-to-month,No
+7817-ADJCV,12,97.36,Yes,Fiber optic,No,No,Month-to-month,Yes
+4638-OQQRM,5,18.25,No,No,No internet service,No internet service,Month-to-month,No
+8239-AUTNN,2,60.77,Yes,DSL,No,Yes,One year,No
+4418-RBTGB,17,97.59,Yes,Fiber optic,No,Yes,Month-to-month,Yes
+6887-GSFTZ,7,61.15,Yes,DSL,No,No,Month-to-month,Yes
+8514-MJMRT,14,80.74,Yes,DSL,Yes,Yes,Month-to-month,Yes
+7986-QQCDG,2,80.4,No,Fiber optic,No,Yes,Month-to-month,No
+9090-THOAB,22,45.67,No,DSL,No,No,Two year,No
+3282-GRRRH,37,73.15,No,Fiber optic,No,No,One year,No
+1009-NMMDX,28,102.55,Yes,Fiber optic,Yes,No,Month-to-month,No
+8026-FZYAL,28,78.85,No,Fiber optic,Yes,No,Month-to-month,Yes
+1491-VZLGF,72,63.35,Yes,DSL,No,Yes,Two year,No
+3027-YFPDN,13,34.25,Yes,No,No internet service,No internet service,Month-to-month,No
+4464-YDVNX,56,79.22,No,Fiber optic,Yes,No,One year,No
+5553-SGXMA,37,97.88,Yes,Fiber optic,No,No,One year,Yes
+1049-AMLHD,11,63.2,Yes,DSL,Yes,No,Month-to-month,Yes
+4558-IIVAT,9,18.25,No,No,No internet service,No internet service,Month-to-month,No
+3109-VDYSX,21,60.71,Yes,DSL,No,No,Two year,No
+2919-HJKZP,72,18.25,No,No,No internet service,No internet service,Two year,No
+3385-JLHBC,14,63.52,No,DSL,Yes,Yes,Month-to-month,No
+3318-VHYGG,22,51.56,Yes,DSL,No,No,Two year,No
+5161-NEJYW,12,84.67,No,Fiber optic,No,Yes,Month-to-month,Yes
+8963-VQXYO,72,24.29,Yes,No,No internet service,No internet service,One year,No
+8030-SBTLT,10,37.05,Yes,No,No internet service,No internet service,Two year,No
+1554-QHBYD,3,46.2,Yes,No,No internet service,No internet service,Month-to-month,Yes
+3551-MIHTZ,35,57.34,Yes,DSL,No,No,Month-to-month,No
+5423-GRHOK,10,29.99,Yes,No,No internet service,No internet service,Two year,No
+1596-EEFXM,34,100.54,Yes,Fiber optic,No,No,Month-to-month,No
+5341-FXZLD,17,46.7,No,DSL,No,No,One year,No
+9472-FCICG,57,18.25,No,No,No internet service,No internet service,Two year,No
+1999-GOXTK,33,77.89,No,Fiber optic,No,Yes,Month-to-month,Yes
+3427-KNJIB,70,87.74,Yes,Fiber optic,No,No,One year,Yes
+1752-HZDNQ,24,80.39,No,Fiber optic,No,Yes,Month-to-month,Yes
+4258-WFHGK,13,83.79,No,Fiber optic,No,No,Month-to-month,Yes
+4929-LYWWA,10,57.91,No,DSL,Yes,Yes,Month-to-month,Yes
+5265-ASXMP,11,67.7,Yes,DSL,No,Yes,Month-to-month,No
+4223-AKYVW,38,68.56,Yes,DSL,No,No,Month-to-month,Yes
+5829-ZGCEN,55,106.44,Yes,Fiber optic,Yes,No,Two year,No
+3329-RYSQT,65,94.24,Yes,Fiber optic,No,Yes,One year,No
+8568-LOBUG,1,48.83,No,DSL,No,Yes,Month-to-month,No
+3297-XQHDG,10,77.38,No,Fiber optic,Yes,No,Month-to-month,No
+3274-QSCBN,54,80.69,No,Fiber optic,Yes,Yes,Two year,No
+3059-PKFPA,10,73.89,No,Fiber optic,No,No,Month-to-month,Yes
+6845-HLYQW,72,53.33,No,DSL,Yes,Yes,Two year,No
+6742-MGGYS,4,60.94,Yes,DSL,No,Yes,Month-to-month,Yes
+7779-HAMRK,20,59.95,Yes,DSL,No,Yes,Month-to-month,No
+9794-GRYFA,72,74.19,No,Fiber optic,No,No,Two year,No
+1753-IKRFU,13,101.75,Yes,Fiber optic,Yes,Yes,One year,No
+3758-TNFZI,54,104.63,Yes,Fiber optic,Yes,No,One year,No
+8652-VGFTH,19,70.67,No,Fiber optic,No,No,Month-to-month,Yes
+4596-YMEFK,72,80.56,No,Fiber optic,No,Yes,Two year,No
+3400-RYDKF,37,54.46,No,DSL,No,Yes,Month-to-month,No
+7276-ZDBBK,42,77.41,No,Fiber optic,No,No,Two year,No
+5804-XWTZY,27,18.25,No,No,No internet service,No internet service,Month-to-month,No
+3763-IEYTA,19,94.15,Yes,Fiber optic,No,No,Month-to-month,Yes
+8129-RJJIE,9,41.08,Yes,No,No internet service,No internet service,Month-to-month,No
+2139-AHJYD,70,81.34,No,Fiber optic,Yes,No,Two year,No
+5341-ZFJVV,20,92.7,Yes,Fiber optic,No,No,Month-to-month,No
+6840-LBMJX,72,18.25,No phone service,No,No internet service,No internet service,Two year,No
+7839-FJXAK,7,99.78,Yes,Fiber optic,Yes,No,One year,No
+4192-VTBAB,7,64.03,No phone service,Fiber optic,No,Yes,One year,No
+2218-XGTXI,15,26.32,No,No,No internet service,No internet service,One year,No
+1034-HYQGS,71,94.91,Yes,Fiber optic,Yes,No,Two year,No
+9591-IHATX,29,49.6,No,DSL,No,No,Month-to-month,Yes
+3955-QYAGM,12,97.85,Yes,Fiber optic,No,No,Month-to-month,No
+5153-YYKGL,17,82.94,No,Fiber optic,No,No,Month-to-month,No
+8913-MYEUT,14,88.33,Yes,Fiber optic,No,No,Month-to-month,No
+7196-VUPII,2,25.92,No phone service,No,No internet service,No internet service,Month-to-month,No
+1478-JUCFT,20,45.9,No,DSL,No,No,Two year,No
+2340-GBAOI,72,90.81,Yes,Fiber optic,No,No,Two year,No
+9020-ZWZGC,25,31.02,Yes,No,No internet service,No internet service,Month-to-month,No
+7184-CMSLG,67,35.78,Yes,No,No internet service,No internet service,One year,No
+6529-KQRTW,23,65.47,Yes,DSL,No,Yes,Month-to-month,No
+8861-RDVHO,1,18.25,No,No,No internet service,No internet service,One year,No
+8494-JTFGG,37,50.09,No,DSL,Yes,No,One year,No
+7728-DWPIK,18,76.65,No,Fiber optic,No,No,Month-to-month,Yes
+6049-ZNGVQ,11,70.72,No,Fiber optic,No,No,Two year,Yes
+9322-ZCMVV,47,38.75,No phone service,DSL,No,Yes,Month-to-month,No
+7394-XBHDE,26,105.05,Yes,Fiber optic,Yes,No,One year,No
+1777-ZPYJW,58,92.65,Yes,Fiber optic,No,No,One year,Yes
+8976-LGUYC,24,76.45,No,Fiber optic,No,No,Month-to-month,No
+2390-PQFJD,22,85.04,No,Fiber optic,No,No,Month-to-month,Yes
+2546-FGPQF,36,18.25,No,No,No internet service,No internet service,Month-to-month,No
+7798-AIREI,39,85.99,No,Fiber optic,Yes,Yes,Two year,No
+1990-FUOBC,72,18.25,No,No,No internet service,No internet service,Two year,No
+1253-KOQCE,42,31.72,Yes,No,No internet service,No internet service,One year,No
+6141-SKHHY,4,67.3,Yes,DSL,No,No,Month-to-month,No
+6553-IOJKW,25,82.3,No,Fiber optic,Yes,No,Two year,No
+5310-ZJFSF,14,76.24,No,Fiber optic,Yes,No,Two year,No
+4096-AXLVK,9,44.88,No,DSL,No,No,Two year,Yes
+5683-WLEAO,20,62.5,No phone service,Fiber optic,Yes,No,Month-to-month,Yes
+5520-QXCQJ,10,88.72,Yes,Fiber optic,No,No,Two year,No
+4239-NDHNY,28,97.39,Yes,Fiber optic,No,No,Month-to-month,Yes
+5081-CMUZF,11,29.36,No phone service,DSL,No,Yes,Month-to-month,Yes
+9818-DYZMB,11,18.25,No,No,No internet service,No internet service,Month-to-month,No
+8059-YKXQV,4,36.95,Yes,No,No internet service,No internet service,Month-to-month,No
+6435-EUFKW,18,76.9,No,Fiber optic,No,Yes,Month-to-month,No
+1241-VEFKN,6,67.36,Yes,DSL,No,No,Month-to-month,No
+6495-JDGSX,48,54.79,No,DSL,Yes,Yes,One year,No
+9201-BOTAV,23,48.18,No,DSL,Yes,No,Month-to-month,No
+1256-DPOQH,4,18.25,No,No,No internet service,No internet service,One year,No
+5976-KPLRL,20,49.54,No,DSL,Yes,No,Month-to-month,No
+3489-LAQMG,2,45.03,No,DSL,No,No,One year,No
+8248-TULEM,25,98.31,Yes,Fiber optic,No,Yes,Month-to-month,Yes
+3541-CDLCL,1,37.59,Yes,No,No internet service,No internet service,Month-to-month,No
+5323-NBQCT,16,93.33,Yes,Fiber optic,Yes,No,Two year,No
+9933-UNBNJ,34,80.56,No,Fiber optic,No,No,Month-to-month,No
+1741-YDWZT,52,58.91,No,DSL,Yes,Yes,Two year,No
+2239-VFZMY,49,77.63,No,Fiber optic,No,No,One year,No
+2930-XEUYB,1,80.57,No,Fiber optic,No,No,One year,Yes
+5545-JTEXH,24,76.2,Yes,DSL,Yes,Yes,Month-to-month,No
+2580-VDNXF,14,72.4,No,Fiber optic,No,No,One year,Yes
+7580-GNIAE,42,76.91,No,Fiber optic,No,No,Month-to-month,Yes
+3523-EYRXE,45,28.08,No,No,No internet service,No internet service,Two year,No
+6593-UCNQJ,40,84.36,No,Fiber optic,Yes,No,Two year,No
+3151-WOPWC,8,24.44,No phone service,No,No internet service,No internet service,Two year,No
+7854-ZQKUG,6,18.25,No,No,No internet service,No internet service,Month-to-month,Yes
+5406-ZPJTL,13,48.94,No,DSL,No,No,Month-to-month,Yes
+4252-ETBVG,35,55.12,No,DSL,No,No,Month-to-month,No
+7511-QZPRI,33,71.89,Yes,DSL,Yes,Yes,Month-to-month,No
+2466-AADQL,24,55.04,No,DSL,Yes,No,One year,No
+6409-NXDFQ,14,64.02,No,DSL,Yes,Yes,Two year,No
+3049-AAJCJ,4,77.79,No,Fiber optic,No,No,Month-to-month,Yes
+3333-FPPFQ,72,105.36,Yes,Fiber optic,Yes,No,Two year,No
+5944-MDYGD,55,46.51,No,DSL,No,No,Two year,No
+7256-CQWUK,5,68.38,Yes,DSL,Yes,No,Month-to-month,No
+5678-GAQOJ,72,88.8,Yes,Fiber optic,No,No,Two year,No
+2253-QLYTG,66,27.52,No,No,No internet service,No internet service,Two year,No
+4657-XBNKG,24,49.82,No,DSL,No,No,Month-to-month,No
+8734-BUAOY,55,95.11,Yes,Fiber optic,No,No,One year,No
+9269-DFPNQ,39,22.05,No,No,No internet service,No internet service,One year,No
+4350-VEIHB,19,81.15,No,Fiber optic,Yes,No,One year,No
+4606-XUSAV,2,92.78,Yes,Fiber optic,No,No,Month-to-month,Yes
+3180-TMTLF,8,58.66,Yes,DSL,No,No,One year,Yes
+2911-CGBIT,13,52.0,No,DSL,No,Yes,One year,No
+5896-SVSGO,65,47.74,No,DSL,No,Yes,Two year,No
+6409-LUNGQ,23,62.05,Yes,DSL,No,No,Two year,No
+6706-ZFWAG,25,78.13,No,Fiber optic,No,No,Month-to-month,No
+6236-GTYTI,57,80.12,No,Fiber optic,Yes,Yes,One year,No
+6291-WIGXQ,72,62.99,Yes,DSL,No,No,Two year,No
+8063-SRZMV,72,89.57,Yes,Fiber optic,No,No,Two year,No
+7492-SWLSO,41,91.01,Yes,Fiber optic,No,No,Month-to-month,No
+6037-IFQCX,17,21.29,No,No,No internet service,No internet service,Month-to-month,Yes
+7970-DACYI,34,52.79,No,DSL,No,Yes,One year,Yes
+1071-DABSQ,8,59.29,Yes,DSL,No,No,Month-to-month,No
+9452-STBPJ,37,71.23,No,Fiber optic,No,No,One year,No
+5354-VVXBW,49,52.98,No,DSL,Yes,No,Two year,No
+6791-XYCFC,8,56.33,Yes,DSL,No,No,Month-to-month,Yes
+2658-AWVQV,1,98.64,Yes,Fiber optic,Yes,No,Month-to-month,Yes
+8523-QHCCT,36,65.2,Yes,DSL,No,No,Month-to-month,Yes
+3113-FILAG,46,94.35,Yes,Fiber optic,Yes,No,One year,No
+6389-HSJIZ,5,32.35,Yes,No,No internet service,No internet service,Month-to-month,Yes
+7930-NWQAK,9,63.09,Yes,DSL,No,Yes,Month-to-month,Yes
+7579-LUJSN,25,26.75,No,No,No internet service,No internet service,Month-to-month,No
+9665-FWCVE,19,76.29,No,Fiber optic,No,No,One year,Yes
+5250-AFTZA,57,55.16,No,DSL,No,Yes,Two year,No
+8850-MMUEM,30,23.55,No,No,No internet service,No internet service,Month-to-month,No
+2963-JVGYH,27,20.53,No,No,No internet service,No internet service,Month-to-month,No
+3119-FSMCQ,13,52.93,No,DSL,No,No,Month-to-month,No
+7234-CUSUQ,6,18.25,No,No,No internet service,No internet service,Month-to-month,Yes
+4834-JKKXC,10,30.97,No phone service,DSL,No,Yes,Month-to-month,Yes
+5408-XAFGX,25,97.85,No,Fiber optic,Yes,Yes,Month-to-month,No
+8745-NJWGL,12,49.67,No,DSL,Yes,No,Month-to-month,No
+1188-NTTQJ,43,19.1,No,No,No internet service,No internet service,Month-to-month,No
+8571-IEVRT,72,52.14,No,DSL,Yes,No,One year,No
+4817-ELUPD,72,41.5,Yes,No,No internet service,No internet service,One year,No
+1521-MXGEH,24,90.61,Yes,Fiber optic,Yes,No,Month-to-month,Yes
+4440-SVEEG,4,36.69,Yes,No,No internet service,No internet service,Month-to-month,Yes
+3506-INEIE,72,79.91,No,Fiber optic,Yes,No,Two year,No
+8459-ZSCZC,25,48.13,No,DSL,No,No,Month-to-month,No
+6330-JZUTL,8,77.97,No,Fiber optic,No,Yes,Month-to-month,Yes
+7248-FQCFK,6,97.86,Yes,Fiber optic,No,Yes,Month-to-month,Yes
+2760-AKUSN,8,32.13,Yes,No,No internet service,No internet service,Month-to-month,No
+1028-QMDPK,52,64.72,No,Fiber optic,No,No,Two year,No
+1183-TXLOT,3,82.19,No,Fiber optic,Yes,No,Month-to-month,Yes
+4761-KFSWU,33,68.68,No,Fiber optic,No,No,Month-to-month,Yes
+2988-SWRQL,34,77.26,No,Fiber optic,No,No,Two year,No
+7913-IQCKU,47,39.28,No phone service,DSL,Yes,No,One year,No
+5872-SQGLL,2,18.25,No,No,No internet service,No internet service,Month-to-month,No
+6505-QKRYE,72,84.4,No,Fiber optic,No,Yes,Month-to-month,No
+7430-RUKMZ,72,75.28,No,Fiber optic,No,No,Two year,No
+9061-AOEUY,13,38.22,Yes,No,No internet service,No internet service,Month-to-month,No
+7643-NCOOS,10,19.65,No,No,No internet service,No internet service,One year,No
+6244-NQVNK,40,49.76,No,DSL,No,Yes,Month-to-month,No
+6092-YFRKT,22,93.0,No,Fiber optic,Yes,Yes,One year,No
+2359-DZJBH,32,42.7,No,DSL,No,No,Two year,No
+6387-KAKKS,20,71.04,No,Fiber optic,No,No,Two year,No
+8095-JGFTY,9,79.11,No,Fiber optic,Yes,No,One year,No
+5687-NFUKF,13,95.36,Yes,Fiber optic,No,No,Month-to-month,Yes
+1609-DUVQM,14,88.71,Yes,Fiber optic,No,No,Month-to-month,Yes
+8146-OFZJQ,10,94.86,Yes,Fiber optic,No,No,Month-to-month,No
+6731-VVMHO,11,83.34,No,Fiber optic,Yes,No,One year,Yes
+6852-DVJWG,39,45.11,Yes,No,No internet service,No internet service,Month-to-month,No
+1422-JGLEA,41,72.53,No,Fiber optic,No,No,Month-to-month,No
+7142-SHGHM,6,18.25,No,No,No internet service,No internet service,Month-to-month,No
+1238-LQRJY,72,52.83,No phone service,Fiber optic,No,No,One year,No
+9127-WBVXU,46,51.38,No,DSL,Yes,No,Two year,No
+4440-DVQAA,13,57.96,No phone service,Fiber optic,No,No,Month-to-month,No
+2057-YRGCD,51,47.9,No,DSL,No,No,Month-to-month,Yes
+1247-GUJDX,72,96.23,Yes,Fiber optic,Yes,No,Two year,Yes
+1344-UEXPU,21,80.34,No,Fiber optic,Yes,No,One year,No
+9780-RXUVF,50,102.9,Yes,Fiber optic,Yes,Yes,One year,No
+5786-SNTLW,25,75.95,No,Fiber optic,No,No,Two year,No
+1295-OGGDM,8,69.56,Yes,DSL,No,Yes,Two year,No
+5016-BMDMM,72,69.7,No phone service,Fiber optic,Yes,Yes,Two year,No
+2317-OWAVM,62,19.36,No phone service,No,No internet service,No internet service,Two year,No
+9173-ORVJK,24,39.54,Yes,No,No internet service,No internet service,Month-to-month,No
+3436-YBQQA,72,86.56,No,Fiber optic,No,Yes,One year,No
+3776-PRYIZ,11,71.24,No,Fiber optic,No,No,Month-to-month,Yes
+9649-NMXAS,43,78.04,No,Fiber optic,No,No,One year,No
+7087-QIWJM,33,46.21,No,DSL,No,No,One year,No
+5278-NUFLK,3,80.5,No,Fiber optic,Yes,No,One year,Yes
+7256-OVHVK,11,82.93,No,Fiber optic,No,Yes,Month-to-month,No
+5012-NHNZR,2,98.33,Yes,Fiber optic,No,No,Month-to-month,Yes
+3146-UIIHP,14,47.39,No,DSL,No,No,Month-to-month,Yes
+2390-QUBSX,5,84.23,No,Fiber optic,No,Yes,Month-to-month,Yes
+1075-OBHAE,14,74.27,Yes,DSL,No,Yes,Two year,No
+3815-XPRUX,36,92.65,Yes,Fiber optic,No,No,Month-to-month,Yes
+4766-PQQSP,9,99.79,Yes,Fiber optic,No,Yes,Month-to-month,Yes
+9117-RFRLT,10,78.28,No,Fiber optic,No,No,Month-to-month,Yes
+2816-CEAUX,37,101.17,Yes,Fiber optic,No,Yes,One year,No
+4838-RJVUO,1,88.67,No,Fiber optic,Yes,No,Month-to-month,Yes
+2715-GHKIL,18,92.99,Yes,Fiber optic,No,No,Two year,No
+2370-QYBOB,21,68.73,Yes,DSL,No,Yes,Two year,No
+5143-DVOXL,18,61.87,Yes,DSL,No,No,Month-to-month,Yes
+3686-AKPYZ,16,72.75,No,Fiber optic,No,No,Month-to-month,Yes
+2612-MKCQF,24,87.27,No,Fiber optic,Yes,Yes,Two year,No
+6472-DAARD,72,94.2,Yes,Fiber optic,Yes,Yes,Two year,No
+6039-ZCWDA,8,18.25,No,No,No internet service,No internet service,Month-to-month,No
+1143-SGTEB,14,22.5,No,No,No internet service,No internet service,One year,No
+6542-USWSC,57,70.61,Yes,DSL,No,Yes,Two year,No
+1149-QSLYG,22,96.58,Yes,Fiber optic,No,Yes,Two year,No
+5232-ZSAAQ,32,96.73,Yes,Fiber optic,No,No,Month-to-month,No
+3071-VCISE,17,48.76,No,DSL,No,Yes,Month-to-month,No
+6078-WMBJO,22,56.47,No,DSL,Yes,No,Two year,No
+8152-LRDUJ,57,80.33,Yes,DSL,No,Yes,Month-to-month,No
+2777-QQKKU,9,20.23,No phone service,No,No internet service,No internet service,Month-to-month,No
+4008-YUOHB,27,40.21,Yes,No,No internet service,No internet service,One year,No
+6178-ZSVIP,17,54.78,No,DSL,Yes,No,Month-to-month,No
+1657-ZVPIL,37,73.0,Yes,DSL,Yes,Yes,One year,No
+8683-XJRPX,18,76.46,No,Fiber optic,No,No,Month-to-month,No
+2427-UHAGK,11,18.25,No,No,No internet service,No internet service,Two year,No
+8636-PVXBV,14,78.75,No,Fiber optic,No,No,Month-to-month,Yes
+4329-VWOHW,4,45.28,No,DSL,No,Yes,Two year,No
+1990-URXJC,10,68.38,Yes,DSL,Yes,No,Month-to-month,Yes
+8262-OUFTY,12,78.88,No,Fiber optic,No,No,Month-to-month,Yes
+3920-GPRMF,20,33.57,Yes,No,No internet service,No internet service,Month-to-month,No
+2712-GTULC,6,76.13,No,Fiber optic,No,No,Month-to-month,No
+7456-UUGPX,16,88.2,Yes,Fiber optic,No,No,Month-to-month,Yes
+6772-XNMPE,19,97.65,Yes,Fiber optic,No,No,One year,No
+6317-FESJO,14,23.75,No,No,No internet service,No internet service,Month-to-month,No
+2459-KNDBZ,5,85.32,No,Fiber optic,Yes,No,Month-to-month,Yes
+4479-JCQUE,72,103.52,Yes,Fiber optic,Yes,No,Two year,Yes
+2597-PINAA,72,74.31,No,Fiber optic,No,No,Two year,No
+8498-ZWMOG,7,36.36,Yes,No,No internet service,No internet service,Two year,No
+6145-ULYTV,10,41.06,Yes,No,No internet service,No internet service,Month-to-month,No
+9055-ZGAFE,9,81.67,No,Fiber optic,Yes,No,Month-to-month,No
+1718-CBOWL,1,39.81,No,DSL,Yes,No,Month-to-month,Yes
+6062-YXBPK,3,22.95,No phone service,No,No internet service,No internet service,Month-to-month,No
+1728-DYGOQ,10,18.25,No phone service,No,No internet service,No internet service,Month-to-month,Yes
+3247-YRKLE,4,94.04,Yes,Fiber optic,No,No,Month-to-month,Yes
+8362-ZZFBG,14,60.79,No,DSL,Yes,Yes,Month-to-month,No
+9662-JXXVB,22,101.01,Yes,Fiber optic,No,Yes,Month-to-month,Yes
+8349-USQZB,23,94.05,Yes,Fiber optic,No,No,Two year,No
+5323-DTYRH,20,35.34,Yes,No,No internet service,No internet service,Month-to-month,No
+7438-PTCIG,34,80.33,No,Fiber optic,No,Yes,Month-to-month,No
+4113-DMEGD,16,80.98,No,Fiber optic,No,No,One year,No
+7462-RASFA,30,81.84,No,Fiber optic,Yes,No,Month-to-month,Yes
+2141-YFYWX,30,98.2,Yes,Fiber optic,No,Yes,Month-to-month,Yes
+2211-DLCYV,34,45.52,No,DSL,No,No,Month-to-month,No
+9482-QLIVM,13,43.12,No,DSL,No,Yes,Month-to-month,No
+9409-QDFBS,35,80.27,No,Fiber optic,No,No,One year,No
+7213-ODWGK,6,58.1,Yes,DSL,No,No,Month-to-month,No
+1301-EHVIE,25,59.27,Yes,DSL,No,No,Month-to-month,No
+1640-MIXCZ,72,69.61,No phone service,Fiber optic,Yes,Yes,Two year,No
+2707-BXRFM,57,95.87,Yes,Fiber optic,Yes,No,Two year,No
+2634-HGFJZ,13,76.73,No,Fiber optic,No,No,Month-to-month,Yes
+9549-ZYCHX,7,99.2,Yes,Fiber optic,No,No,Month-to-month,Yes
+9318-BSHZA,1,54.88,No,DSL,Yes,No,Month-to-month,Yes
+9979-UIDAV,26,105.5,Yes,Fiber optic,Yes,No,Two year,Yes
+1680-NELXF,6,54.57,No,DSL,No,Yes,Two year,No
+8708-ODEUS,12,59.04,Yes,DSL,No,No,Month-to-month,Yes
+7081-FCCPM,20,84.67,No,Fiber optic,No,Yes,Two year,Yes
+5566-HFPSV,59,80.47,No,Fiber optic,No,No,Month-to-month,No
+6122-PFBTK,8,71.09,No phone service,Fiber optic,No,Yes,Month-to-month,Yes
+1873-SBVIV,5,18.25,No,No,No internet service,No internet service,Month-to-month,No
+5499-WMAXM,72,32.72,Yes,No,No internet service,No internet service,Two year,No
+3821-WGEVJ,2,58.78,No phone service,Fiber optic,No,No,Month-to-month,Yes
+7222-EJPAN,31,73.3,No,Fiber optic,No,No,Month-to-month,No
+9035-LNDSV,69,65.52,Yes,DSL,No,Yes,One year,No
+4027-WISJT,13,100.16,Yes,Fiber optic,Yes,No,Month-to-month,No
+7242-BWYMN,3,18.25,No,No,No internet service,No internet service,Month-to-month,No
+6633-NNAZF,8,43.67,No,DSL,Yes,No,Month-to-month,Yes
+4130-ECGVA,49,87.16,No,Fiber optic,Yes,Yes,Two year,No
+8891-CSFAP,72,46.81,No,DSL,No,No,Two year,No
+2469-ONSCW,66,84.34,No,Fiber optic,No,No,Two year,No
+6152-SBDMN,61,104.42,Yes,Fiber optic,Yes,No,Two year,No
+8059-HDKDP,21,20.46,No,No,No internet service,No internet service,One year,No
+5723-WDOTE,72,59.27,No phone service,Fiber optic,No,No,Two year,Yes
+6494-VYKKV,11,54.41,No,DSL,No,Yes,One year,No
+6503-NKYUI,16,18.25,No,No,No internet service,No internet service,One year,No
+2758-GILZU,16,60.1,Yes,DSL,No,No,Month-to-month,Yes
+2676-XVWBN,24,55.61,No,DSL,No,Yes,Month-to-month,No
+8416-YYGKQ,42,78.8,No,Fiber optic,No,No,One year,No
+4001-JNBLN,20,99.9,Yes,Fiber optic,No,No,Month-to-month,Yes
+7576-ADZUY,29,18.25,No,No,No internet service,No internet service,Two year,No
+7446-QVWXA,60,28.85,Yes,No,No internet service,No internet service,One year,No
+9282-QGRHO,1,84.22,No,Fiber optic,No,Yes,Month-to-month,Yes
+6111-YQGNL,25,71.18,Yes,DSL,Yes,No,Two year,Yes
+5351-YHHQD,3,73.33,No,Fiber optic,No,No,Month-to-month,Yes
+2061-PYNGM,5,58.89,Yes,DSL,No,Yes,Month-to-month,No
+6591-NDDDH,19,95.36,Yes,Fiber optic,No,No,Month-to-month,Yes
+8811-KHGCO,72,35.9,No phone service,DSL,No,Yes,Two year,No
+8844-VPOQF,12,89.43,Yes,Fiber optic,No,No,One year,Yes
+4701-SLOPM,44,40.23,No,DSL,No,No,Two year,No
+8399-IGFNJ,48,76.49,No,Fiber optic,No,No,Month-to-month,No
+3221-PAJWG,56,27.27,Yes,No,No internet service,No internet service,Two year,No
+6255-OMHZH,72,18.25,No,No,No internet service,No internet service,One year,No
+2345-UEBWL,63,94.96,Yes,Fiber optic,No,No,One year,Yes
+9883-BKLTC,72,78.56,No,Fiber optic,No,Yes,Two year,No
+9323-FYTEI,11,52.8,No,DSL,Yes,Yes,Month-to-month,No
+3569-JRQWV,18,31.83,No,DSL,No,No,Month-to-month,No
+7574-NTTTM,72,23.98,No,No,No internet service,No internet service,One year,No
+6975-USXDW,22,94.97,Yes,Fiber optic,No,Yes,Two year,No
+3785-ATPMZ,33,76.96,No,Fiber optic,No,No,Month-to-month,No
+6198-OKUWP,18,30.25,Yes,No,No internet service,No internet service,One year,No
+2731-JLLSH,15,65.03,Yes,DSL,No,No,Month-to-month,No
+9415-KOJIU,47,58.25,Yes,DSL,No,No,One year,No
+8662-WMLEH,32,34.19,Yes,No,No internet service,No internet service,Two year,No
+1159-DOPCX,12,25.97,No phone service,DSL,No,No,Month-to-month,Yes
+2320-IVVYF,10,53.5,No,DSL,No,No,One year,No
+1408-LXABO,13,29.3,Yes,No,No internet service,No internet service,Month-to-month,No
+5695-MXUOZ,12,81.09,No,Fiber optic,No,Yes,Two year,No
+4583-NNRKJ,19,19.39,No phone service,No,No internet service,No internet service,Month-to-month,No
+7012-PJYRN,15,57.03,No,DSL,No,No,Month-to-month,No
+6710-CJKOO,64,74.27,No,Fiber optic,Yes,No,One year,Yes
+9441-WZMLQ,11,48.27,No,DSL,No,No,Month-to-month,No
+6685-ZINVE,63,18.25,No,No,No internet service,No internet service,One year,No
+7175-IZVNC,32,81.89,No,Fiber optic,Yes,No,Month-to-month,No
+6912-XRVZX,70,31.25,No phone service,DSL,No,No,One year,No
+1968-KEHNN,52,50.17,No,DSL,No,Yes,One year,No
+1493-EEQPJ,62,76.99,No,Fiber optic,No,No,Two year,No
+5681-ZQBKU,17,76.42,No,Fiber optic,No,No,Month-to-month,No
+1572-HRAHV,9,80.39,No,Fiber optic,Yes,No,Month-to-month,No
+9199-PRFMO,29,62.13,Yes,DSL,No,No,One year,No
+2619-GQNZO,29,77.08,No,Fiber optic,Yes,Yes,One year,No
+3431-KDETC,53,91.05,Yes,Fiber optic,No,No,Month-to-month,No
+6116-CENVP,9,18.25,No,No,No internet service,No internet service,One year,No
+1792-UBAUI,11,73.39,No,Fiber optic,No,No,Month-to-month,Yes
+6875-SJEGC,17,23.55,No,No,No internet service,No internet service,Month-to-month,No
+1526-XPJLK,19,95.38,Yes,Fiber optic,No,No,Two year,No
+6251-BXPYL,24,66.58,Yes,DSL,No,No,Month-to-month,No
+8507-QGBYW,8,22.84,No phone service,No,No internet service,No internet service,Month-to-month,No
+8165-IXVHP,39,18.25,No,No,No internet service,No internet service,One year,No
+9402-YMYGK,31,96.75,Yes,Fiber optic,No,No,One year,No
+7919-SFIWM,46,32.22,Yes,No,No internet service,No internet service,One year,No
+5150-UGEJE,13,103.47,Yes,Fiber optic,Yes,Yes,Two year,No
+3972-ZHOCN,18,30.31,Yes,No,No internet service,No internet service,Month-to-month,No
+3754-KKBDV,72,69.24,Yes,DSL,No,Yes,One year,No
+4437-JGEHG,72,24.68,No phone service,No,No internet service,No internet service,Two year,No
+4577-ARIES,30,94.93,Yes,Fiber optic,No,No,One year,Yes
+4548-CHVDL,31,35.23,Yes,No,No internet service,No internet service,One year,Yes
+2602-VUEJS,16,93.17,Yes,Fiber optic,No,No,Month-to-month,Yes
+1641-JYFYN,25,64.13,Yes,DSL,No,No,One year,Yes
+4926-FLDSG,6,102.82,Yes,Fiber optic,No,No,Month-to-month,Yes
+6790-XPJGP,30,89.42,No,Fiber optic,Yes,Yes,One year,No
+5246-FWDNO,13,42.51,No,DSL,No,No,Month-to-month,No
+5489-HUKRO,52,48.39,No,DSL,No,No,Month-to-month,No
+5801-IKCEW,44,18.25,No,No,No internet service,No internet service,One year,No
+2103-IRCOJ,57,57.07,Yes,DSL,No,No,Month-to-month,No
+1945-NHBIF,14,33.1,Yes,No,No internet service,No internet service,Month-to-month,No
+8056-DSHKX,58,97.88,Yes,Fiber optic,No,No,Two year,Yes
+9768-UWWDH,14,79.16,No,Fiber optic,Yes,No,Month-to-month,Yes
+6790-ARRJK,21,51.43,No,DSL,No,Yes,Two year,No
+6633-RSGWJ,19,19.22,No,No,No internet service,No internet service,Two year,No
+8453-QECXT,11,75.1,No,Fiber optic,No,No,Month-to-month,Yes
+6153-SBBEF,60,18.25,No,No,No internet service,No internet service,One year,No
+7259-HJBIQ,5,38.5,No,DSL,No,No,Month-to-month,No
+8438-EVOSG,3,41.15,Yes,No,No internet service,No internet service,Month-to-month,No
+9536-LRJAV,43,47.08,No,DSL,No,No,Two year,No
+1439-UHBWP,17,37.94,No phone service,DSL,Yes,Yes,One year,No
+9720-BGCUF,16,65.99,Yes,DSL,No,Yes,One year,Yes
+6276-XTCSK,72,68.17,Yes,DSL,No,Yes,One year,No
+9813-TVHCY,28,22.9,No phone service,DSL,No,No,One year,No
+4324-LYRTV,45,90.29,No,Fiber optic,No,Yes,One year,No
+4217-QLBSL,13,29.93,No phone service,DSL,Yes,No,Month-to-month,No
+6769-NYDTB,24,55.54,No,DSL,No,Yes,Month-to-month,No
+5603-SUGOZ,13,68.12,Yes,DSL,No,No,Month-to-month,Yes
+9443-QOGBJ,12,64.45,Yes,DSL,No,No,Month-to-month,No
+2249-KFIDS,23,91.16,Yes,Fiber optic,No,No,Month-to-month,Yes
+1627-RGGNL,41,32.25,Yes,No,No internet service,No internet service,Two year,No
+1757-YJHXD,34,72.29,Yes,DSL,No,No,Month-to-month,Yes
+2558-OIVOT,7,50.25,No,DSL,Yes,No,Month-to-month,No
+2772-ERPLT,38,62.19,Yes,DSL,No,Yes,Month-to-month,No
+4159-VCHJF,10,82.34,No,Fiber optic,No,No,One year,No
+8399-BHFSL,30,68.56,Yes,DSL,No,No,Two year,No
+5803-CIMJE,47,49.43,No,DSL,Yes,No,Two year,No
+5580-BAZTC,4,46.74,No,DSL,No,No,Month-to-month,No
+8454-SZOCM,8,94.28,Yes,Fiber optic,No,No,Month-to-month,Yes
+1575-LEOAX,72,24.28,No,No,No internet service,No internet service,Two year,No
+7603-QQYQG,11,68.39,No phone service,Fiber optic,No,No,Month-to-month,Yes
+8958-GDAUV,15,74.13,No,Fiber optic,No,No,One year,No
+5941-HEQVY,23,71.17,Yes,DSL,Yes,Yes,Month-to-month,No
+2857-EUVTI,46,18.25,No,No,No internet service,No internet service,Two year,No
+2735-EVIJO,21,94.57,Yes,Fiber optic,No,No,Month-to-month,Yes
+5786-JVGBO,37,25.95,No phone service,DSL,No,No,Month-to-month,No
+5531-QVSXY,13,74.12,Yes,DSL,Yes,No,Month-to-month,No
+8286-MMEHP,18,18.25,No,No,No internet service,No internet service,Month-to-month,No
+4960-CRELZ,72,89.02,Yes,Fiber optic,Yes,No,Two year,No
+2300-CBLES,4,97.77,Yes,Fiber optic,No,Yes,Two year,No
+2017-AVWUL,16,106.53,Yes,Fiber optic,Yes,No,Month-to-month,Yes
+3827-HRNKI,21,99.99,Yes,Fiber optic,No,No,Two year,No
+9232-LRVXE,19,63.57,Yes,DSL,No,No,Month-to-month,Yes
+2661-HLOJF,6,55.82,No phone service,Fiber optic,No,No,Month-to-month,Yes
+8571-CILZX,9,77.31,No,Fiber optic,No,No,Month-to-month,Yes
+5785-WZZQV,4,79.86,No,Fiber optic,No,No,Month-to-month,Yes
+6519-BRPHO,23,88.3,Yes,Fiber optic,No,No,Month-to-month,No
+7628-YMQHI,29,87.68,No,Fiber optic,Yes,No,One year,No
+3222-XAERL,34,82.06,No,Fiber optic,Yes,Yes,Two year,No
+3886-CRJPK,5,37.68,Yes,No,No internet service,No internet service,Month-to-month,No
+6190-NOKCE,67,60.3,Yes,DSL,Yes,No,One year,No
+7535-XOCWG,7,18.25,No,No,No internet service,No internet service,Two year,No
+3909-CNGMO,29,94.99,Yes,Fiber optic,No,No,Month-to-month,Yes
+3057-FOCNP,18,53.14,No phone service,Fiber optic,No,Yes,Month-to-month,No
+6833-CKBLW,18,99.06,Yes,Fiber optic,No,No,One year,Yes
+2295-OSTCZ,15,20.8,No,No,No internet service,No internet service,Month-to-month,No
+1335-SCVKE,7,31.86,Yes,No,No internet service,No internet service,One year,No
+4861-YOUDU,36,66.92,Yes,DSL,Yes,Yes,Month-to-month,No
+6427-BGJAP,8,50.32,No,DSL,No,No,One year,No
+3965-FHSLX,8,36.27,Yes,No,No internet service,No internet service,Month-to-month,No
+6036-QWOXW,26,21.53,No,No,No internet service,No internet service,Month-to-month,No
+3472-ETITR,10,81.05,No,Fiber optic,No,Yes,Month-to-month,No
+9327-VDJTY,35,77.95,No,Fiber optic,No,Yes,One year,Yes
+6049-SBPCO,16,38.94,Yes,No,No internet service,No internet service,Month-to-month,No
+6139-UCYRG,24,58.56,Yes,DSL,No,No,Two year,No
+8906-FLVPC,9,33.13,No phone service,DSL,No,No,Month-to-month,Yes
+8042-ACUEO,43,55.72,Yes,DSL,No,No,Month-to-month,No
+6842-HRJDW,26,75.82,No,Fiber optic,No,No,Month-to-month,Yes
+2998-NRVYA,21,40.51,No,DSL,No,No,Month-to-month,No
+9238-IDNWU,14,103.65,Yes,Fiber optic,No,Yes,Month-to-month,No
+5972-AEVRK,20,59.91,Yes,DSL,No,Yes,Two year,No
+5312-MEVKW,8,46.07,No,DSL,No,Yes,One year,Yes
+3913-PBIFX,21,60.96,No phone service,Fiber optic,No,No,Month-to-month,Yes
+4078-PBEJM,8,99.02,Yes,Fiber optic,No,Yes,Month-to-month,Yes
+9867-PKJAP,11,83.25,No,Fiber optic,No,No,Month-to-month,No
+4523-IALZB,15,39.84,Yes,No,No internet service,No internet service,Two year,No
+9617-DRHHN,2,22.55,No phone service,No,No internet service,No internet service,Month-to-month,No
+9949-GONYZ,47,71.05,Yes,DSL,Yes,No,Two year,No
+3206-AOUWU,12,75.22,No,Fiber optic,No,Yes,One year,No
+6207-QQJHU,72,80.21,No,Fiber optic,No,Yes,One year,No
+6610-WYRHT,72,79.23,No,Fiber optic,No,Yes,Two year,No
+8709-TNQJO,23,68.47,Yes,DSL,Yes,Yes,One year,No
+1640-KBIIZ,30,57.56,No phone service,Fiber optic,Yes,No,Month-to-month,Yes
+2826-MJGGJ,6,18.25,No phone service,No,No internet service,No internet service,Month-to-month,No
+5934-DAWLL,30,40.31,No,DSL,No,No,Month-to-month,No
+8910-OHEBH,52,87.22,No,Fiber optic,No,Yes,Month-to-month,Yes
+9864-ISOYI,22,95.86,Yes,Fiber optic,No,No,Month-to-month,No
+7042-XPCEP,54,90.56,Yes,Fiber optic,No,No,Month-to-month,No
+2256-ZJULW,2,60.79,Yes,DSL,No,No,One year,No
+3027-BMXHG,13,64.04,Yes,DSL,No,No,Month-to-month,No
+7564-AEGSF,11,69.95,No,Fiber optic,No,No,Month-to-month,Yes
+7572-KFPWQ,23,68.05,Yes,DSL,No,Yes,Month-to-month,Yes
+5639-FTZPC,14,55.83,Yes,DSL,No,No,Month-to-month,Yes
+5682-VWIDE,68,24.33,No,No,No internet service,No internet service,Two year,No
+9939-NWQXF,15,82.68,No,Fiber optic,No,Yes,Month-to-month,Yes
+4024-ITQKR,6,101.49,Yes,Fiber optic,Yes,No,Month-to-month,No
+4675-IBKBQ,3,93.58,Yes,Fiber optic,No,No,Month-to-month,Yes
+7794-IMPGM,29,54.53,No,DSL,Yes,No,Month-to-month,No
+8444-AYOZB,7,98.97,Yes,Fiber optic,No,No,Month-to-month,Yes
+8398-PSICE,21,83.35,No,Fiber optic,Yes,No,Month-to-month,No
+6368-DTCVL,18,87.17,Yes,Fiber optic,No,No,Month-to-month,Yes
+5779-OPORP,9,87.46,Yes,Fiber optic,No,No,Month-to-month,Yes
+8198-ITGST,9,78.53,No,Fiber optic,No,No,Two year,Yes
+2761-UIUZL,16,81.14,No,Fiber optic,No,No,Month-to-month,Yes
+8668-HNYDA,69,66.86,Yes,DSL,No,No,One year,No
+8130-MRUJZ,3,24.46,No,No,No internet service,No internet service,Month-to-month,No
+6830-FTCAD,66,105.46,Yes,Fiber optic,Yes,Yes,Month-to-month,No
+9543-BNOEY,49,82.16,Yes,Fiber optic,No,No,Two year,No
+4149-JDETX,19,94.59,Yes,Fiber optic,Yes,No,Month-to-month,Yes
+6083-EAUGZ,72,18.25,No,No,No internet service,No internet service,Two year,No
+6364-MQIUL,72,18.25,No,No,No internet service,No internet service,Two year,No
+3899-IXCTB,38,99.13,Yes,Fiber optic,Yes,Yes,One year,No
+8110-QKWBO,24,73.81,No,Fiber optic,No,No,Month-to-month,No
+8488-KXYQF,17,32.1,Yes,No,No internet service,No internet service,One year,No
+8383-GGLGF,30,78.92,No,Fiber optic,Yes,Yes,One year,No
+8971-TQHZF,13,70.33,Yes,DSL,No,Yes,Two year,No
+6685-OEWWG,23,82.17,No,Fiber optic,No,No,Month-to-month,Yes
+6521-TVHIM,65,63.41,Yes,DSL,Yes,No,Two year,No
+5101-XERPL,66,19.71,No,No,No internet service,No internet service,Two year,No
+5641-PWFWJ,22,82.33,No,Fiber optic,No,No,Month-to-month,Yes
+1755-UWEWZ,1,60.98,Yes,DSL,No,No,Month-to-month,No
+7191-HACZA,12,66.38,Yes,DSL,No,No,Month-to-month,Yes
+2041-XDTCE,19,33.84,Yes,No,No internet service,No internet service,Two year,No
+4933-RCIXS,34,50.73,No,DSL,No,No,Two year,No
+6808-WZAGU,66,37.87,Yes,No,No internet service,No internet service,Two year,No
+5721-RANGL,72,70.18,Yes,DSL,Yes,No,One year,No
+4560-CAZIW,25,94.98,Yes,Fiber optic,No,No,One year,No
+9308-DMDLE,16,47.68,No,DSL,No,No,One year,Yes
+7089-RDTNC,20,75.52,No,Fiber optic,No,No,One year,Yes
+5081-JMXJF,40,93.58,Yes,Fiber optic,No,Yes,Two year,No
+5686-ZWTHE,25,73.29,No,Fiber optic,No,No,One year,Yes
+4247-GBBNK,16,36.36,Yes,No,No internet service,No internet service,Month-to-month,No
+4588-OJARQ,23,69.15,No,Fiber optic,No,No,Month-to-month,No
+3785-OORZW,2,18.25,No,No,No internet service,No internet service,Month-to-month,No
+2841-SKIKZ,5,54.53,No,DSL,No,Yes,One year,No
+3387-KKKDZ,16,47.54,No,DSL,No,Yes,One year,No
+8624-APYGP,8,76.73,No,Fiber optic,No,No,Month-to-month,Yes
+9722-JGFDV,72,44.22,No,DSL,No,No,Two year,No
+3444-UXBSI,24,58.66,No,DSL,Yes,No,One year,No
+9189-QOIZA,27,87.27,No,Fiber optic,No,Yes,Month-to-month,No
+6679-TWNPZ,5,44.19,No,DSL,No,No,Month-to-month,No
+8906-GQTJS,69,49.34,No,DSL,No,No,Month-to-month,No
+1915-KNPRI,28,66.91,Yes,DSL,No,Yes,Month-to-month,No
+1128-QOFPG,5,63.82,Yes,DSL,No,No,Month-to-month,Yes
+9669-XMSNM,12,65.77,Yes,DSL,No,No,Month-to-month,No
+7180-FDYNN,72,92.86,Yes,Fiber optic,No,No,Two year,No
+2373-NVGEV,19,49.51,No,DSL,Yes,Yes,Month-to-month,No
+4339-LQVXW,28,34.98,No,DSL,No,No,Two year,No
+5534-BJVVD,58,58.36,No phone service,Fiber optic,No,No,One year,No
+1637-DGCJU,63,85.17,No,Fiber optic,Yes,No,Two year,No
+8306-NLCKZ,1,72.72,No,Fiber optic,No,No,Month-to-month,Yes
+1013-SLMUT,60,46.81,No,DSL,No,No,Month-to-month,No
+3095-DRJNG,72,80.88,No,Fiber optic,Yes,No,Two year,No
+4268-JIJAF,13,19.22,No,No,No internet service,No internet service,Month-to-month,No
+6806-OBESH,9,73.68,No,Fiber optic,No,No,Month-to-month,No
+2465-IGVCQ,23,67.19,Yes,DSL,Yes,No,Two year,No
+4672-WFLUQ,4,56.87,No,DSL,Yes,Yes,One year,No
+6266-JBLJS,16,81.5,Yes,Fiber optic,No,No,Month-to-month,Yes
+9660-HKQVJ,8,62.05,No phone service,Fiber optic,No,No,Month-to-month,No
+4523-KPYEZ,15,76.23,No,Fiber optic,No,No,Two year,No
+2203-SJRIB,7,67.39,No,Fiber optic,No,No,Month-to-month,Yes
+1820-TJNMX,72,21.79,No,No,No internet service,No internet service,One year,No
+2722-TAPMM,8,48.09,No,DSL,No,No,Month-to-month,No
+4383-VKMXL,72,100.32,Yes,Fiber optic,No,Yes,Two year,Yes
+5905-MNVRT,39,19.93,No,No,No internet service,No internet service,Month-to-month,No
+5939-KBROT,15,71.09,Yes,DSL,Yes,Yes,Month-to-month,No
+7131-UDFCV,25,73.62,No,Fiber optic,No,Yes,Month-to-month,No
+7837-CCTOB,12,44.77,No,DSL,No,No,One year,No
+6182-RSMBR,34,18.25,No phone service,No,No internet service,No internet service,Two year,No
+1723-KPZVW,16,59.01,No,DSL,No,Yes,Month-to-month,No
+2642-DINAZ,6,79.99,Yes,DSL,Yes,No,Month-to-month,Yes
+8856-HGIGW,20,45.46,No,DSL,No,Yes,Two year,Yes
+5412-ONKBH,72,26.57,No phone service,DSL,No,No,One year,No
+5948-WUWGF,33,79.73,No,Fiber optic,No,No,Month-to-month,Yes
+1583-BNJMM,29,55.16,No,DSL,No,Yes,One year,No
+9697-PJUFX,5,80.86,No,Fiber optic,No,Yes,Month-to-month,Yes
+7058-OBINK,50,18.25,No,No,No internet service,No internet service,Two year,No
+4056-OIHUH,5,23.61,No,No,No internet service,No internet service,Month-to-month,No
+3960-SUPLY,25,98.38,Yes,Fiber optic,No,No,One year,No
+1715-LWBLQ,31,26.45,No phone service,DSL,Yes,No,One year,No
+9649-BWBPE,34,77.64,No,Fiber optic,Yes,No,One year,No
+9493-XOUMR,8,65.31,Yes,DSL,No,Yes,Month-to-month,Yes
+4599-RHFVD,53,77.3,No,Fiber optic,No,No,One year,No
+9144-XFCCU,72,106.05,Yes,Fiber optic,Yes,Yes,One year,No
+1464-YKRGX,10,18.25,No,No,No internet service,No internet service,Month-to-month,No
+6602-REBSB,17,18.25,No,No,No internet service,No internet service,Month-to-month,No
+1108-VHGPI,30,55.55,No,DSL,Yes,Yes,Two year,No
+9375-OEXIV,36,37.31,Yes,No,No internet service,No internet service,One year,No
+3964-DUZKA,36,55.08,No,DSL,Yes,Yes,Month-to-month,No
+8832-JQFOC,19,18.25,No,No,No internet service,No internet service,One year,No
+3354-MSLRC,7,32.45,No phone service,DSL,No,Yes,Month-to-month,No
+1101-VDYZY,12,64.85,Yes,DSL,No,Yes,Month-to-month,Yes
+9554-NHJTM,34,64.62,Yes,DSL,No,Yes,Two year,No
+5204-YCMWP,17,46.87,No,DSL,No,No,Month-to-month,Yes
+8022-OCDHX,15,39.1,No,DSL,No,No,Month-to-month,No
+5894-VFYAP,1,61.34,No phone service,Fiber optic,No,No,Month-to-month,No
+4306-ZIYRB,32,18.25,No,No,No internet service,No internet service,Month-to-month,No
+2230-ILGTE,10,81.26,No,Fiber optic,Yes,No,Month-to-month,No
+3340-UHBOC,13,48.75,No,DSL,No,Yes,Month-to-month,No
+3279-OUPLA,9,84.34,No,Fiber optic,No,No,Month-to-month,Yes
+1609-NCQDP,33,25.07,Yes,No,No internet service,No internet service,Month-to-month,No
+1536-JJREE,29,35.35,Yes,No,No internet service,No internet service,Month-to-month,Yes
+2112-YIVWM,15,40.93,Yes,No,No internet service,No internet service,Month-to-month,No
+3148-DCWDM,44,56.25,No phone service,Fiber optic,No,Yes,One year,No
+7681-NDMEN,55,69.27,Yes,DSL,Yes,No,Two year,No
+7066-NJFKF,7,89.14,Yes,Fiber optic,No,No,Month-to-month,Yes
+1510-DGWNX,25,80.21,No,Fiber optic,No,Yes,One year,Yes
+9862-AYMUO,39,18.25,No,No,No internet service,No internet service,Month-to-month,No
+8064-RFTDG,22,65.88,Yes,DSL,No,Yes,Month-to-month,No
+9628-AKNHX,62,68.77,Yes,DSL,Yes,No,Month-to-month,No
+4552-CPGPU,69,56.88,No,DSL,Yes,Yes,Two year,No
+7843-SBGPZ,3,76.94,No,Fiber optic,No,No,Month-to-month,No
+7146-BQRVI,62,20.3,No,No,No internet service,No internet service,Two year,No
+9136-VMXAY,12,97.7,Yes,Fiber optic,No,No,Month-to-month,Yes
+6547-KKCGT,7,38.17,No phone service,DSL,No,Yes,One year,No
+4880-RDIDF,11,47.01,No,DSL,No,No,Two year,No
+1978-FIZZU,72,72.27,No,Fiber optic,No,No,Two year,No
+6078-MMUXT,27,60.88,Yes,DSL,No,No,Month-to-month,No
+7800-QFQVU,6,91.11,No,Fiber optic,No,No,Month-to-month,No
+9233-CSJEZ,10,58.52,No,DSL,No,No,Month-to-month,Yes
+8896-RTDVY,40,71.12,Yes,DSL,Yes,No,Two year,No
+1011-XTVUP,23,24.03,No phone service,No,No internet service,No internet service,Month-to-month,Yes
+1993-LVUWH,17,26.74,No phone service,No,No internet service,No internet service,Month-to-month,No
+3350-YNYDZ,72,95.88,Yes,Fiber optic,Yes,No,Two year,No
+9736-UGVGF,10,86.86,No,Fiber optic,Yes,No,Month-to-month,Yes
+2871-LGMXR,42,68.67,Yes,DSL,No,Yes,Month-to-month,No
+8255-SKUUR,72,76.75,No,Fiber optic,No,No,Two year,No
+9699-YVKCQ,17,101.17,Yes,Fiber optic,No,No,Month-to-month,Yes
+6446-VIPVU,15,29.83,Yes,No,No internet service,No internet service,Month-to-month,No
+6910-AMACV,21,77.95,No,Fiber optic,No,No,Month-to-month,No
+7263-KPLIF,27,24.74,Yes,No,No internet service,No internet service,Month-to-month,No
+4746-JVQHC,11,74.19,No,Fiber optic,No,No,Month-to-month,Yes
+1415-HSLRU,22,50.58,No,DSL,No,Yes,One year,No
+4991-DRBVE,37,70.44,Yes,DSL,No,Yes,Two year,No
+3044-HYJFX,22,63.71,Yes,DSL,No,No,One year,No
+9683-PXKMY,59,77.63,No,Fiber optic,No,Yes,One year,No
+9153-NZEVE,24,28.53,No phone service,DSL,No,No,Month-to-month,No
+7379-NAEYL,5,81.89,No,Fiber optic,Yes,Yes,One year,No
+8766-VGJCO,20,93.72,Yes,Fiber optic,Yes,No,One year,No
+8295-WNJYX,10,18.25,No phone service,No,No internet service,No internet service,One year,No
+2959-RBQLY,38,74.99,Yes,DSL,Yes,Yes,Two year,No
+5264-JRQJN,22,95.78,Yes,Fiber optic,No,Yes,One year,No
+5922-RXMJZ,7,70.59,Yes,DSL,No,No,Month-to-month,Yes
+9883-BVROL,48,47.2,No,DSL,Yes,No,One year,No
+4099-TXSTA,10,42.94,No,DSL,No,No,Month-to-month,Yes
+3349-IDYXD,17,84.03,No,Fiber optic,No,Yes,Month-to-month,Yes
+2683-POBKT,25,92.18,Yes,Fiber optic,No,No,One year,No
+2970-QHTHO,71,84.22,Yes,Fiber optic,No,No,Two year,No
+8033-KZQUR,22,60.14,No phone service,Fiber optic,No,No,Month-to-month,No
+5774-JZSRH,11,36.8,No,DSL,No,No,Month-to-month,No
+7081-EOVUJ,41,79.52,No,Fiber optic,No,Yes,One year,No
+9244-DNWET,16,76.41,No,Fiber optic,No,Yes,Month-to-month,No
+1616-EIBHJ,37,25.86,Yes,No,No internet service,No internet service,Month-to-month,No
+6035-ZZEIY,7,88.59,No,Fiber optic,Yes,Yes,Month-to-month,No
+7016-FILCG,17,64.5,Yes,DSL,No,No,Month-to-month,No
+5070-KKZGF,30,102.92,Yes,Fiber optic,Yes,No,One year,No
+1113-XLVQU,26,76.07,No,Fiber optic,No,Yes,One year,No
+6458-IDTMO,51,106.0,Yes,Fiber optic,Yes,No,Month-to-month,Yes
+1862-RTHJX,57,88.72,No,Fiber optic,No,Yes,Two year,No
+3101-NHQGU,72,75.68,No,Fiber optic,No,No,Two year,No
+4726-BVOJY,31,32.23,Yes,No,No internet service,No internet service,Month-to-month,No
+4658-GGBOT,18,24.66,No,No,No internet service,No internet service,Month-to-month,No
+1316-RKVCH,18,18.25,No,No,No internet service,No internet service,Month-to-month,No
+9069-QZQRU,23,92.59,Yes,Fiber optic,No,No,Two year,No
+5679-KYTIK,26,65.88,Yes,DSL,No,No,Two year,No
+3058-UJEWN,15,30.27,Yes,No,No internet service,No internet service,Month-to-month,No
+7146-NRXDI,27,18.25,No phone service,No,No internet service,No internet service,Month-to-month,No
+9488-BKNWR,43,88.33,Yes,Fiber optic,No,No,Month-to-month,No
+3326-PKOHV,4,53.92,Yes,DSL,No,No,Month-to-month,Yes
+5958-UVDRT,64,79.94,No,Fiber optic,Yes,No,Two year,No
+7274-NXXTV,28,42.34,No phone service,DSL,Yes,No,Month-to-month,No
+9795-QWDSS,9,96.95,Yes,Fiber optic,No,No,Month-to-month,No
+1642-PHBPV,7,78.08,No,Fiber optic,No,No,Month-to-month,Yes
+5460-HFFCR,3,55.8,No,DSL,No,Yes,Month-to-month,Yes
+1795-ZUJSB,48,48.86,No,DSL,No,No,One year,No
+3380-VIAQD,14,21.15,No,No,No internet service,No internet service,Month-to-month,No
+5483-HBLOU,19,62.63,Yes,DSL,No,No,Month-to-month,Yes
+4864-BVCFQ,7,43.5,No,DSL,No,No,Month-to-month,Yes
+1256-IIOFU,47,46.95,No,DSL,No,Yes,Two year,No
+4207-FVVNA,60,22.07,No phone service,No,No internet service,No internet service,One year,No
+7823-UANLB,15,55.9,No,DSL,No,No,Month-to-month,Yes
+6000-QSPKN,72,18.25,No,No,No internet service,No internet service,Two year,No
+9022-PFWZU,32,69.13,No,Fiber optic,No,No,Month-to-month,No
+8415-YIZBM,52,51.89,No,DSL,No,Yes,Two year,No
+1060-DLRSL,21,23.51,No phone service,No,No internet service,No internet service,Month-to-month,No
+3183-IEKHF,72,58.75,No,DSL,Yes,Yes,Two year,No
+8191-TNLFS,27,39.77,No phone service,DSL,No,Yes,Month-to-month,No
+5417-FGOSZ,34,19.04,No phone service,No,No internet service,No internet service,Month-to-month,No
+6126-TYXSS,34,61.28,Yes,DSL,No,No,One year,No
+2535-BFAWS,12,18.25,No,No,No internet service,No internet service,Month-to-month,No
+9770-QGJEQ,55,38.52,Yes,No,No internet service,No internet service,Month-to-month,No
+8365-ZHBEJ,16,55.61,No phone service,Fiber optic,No,No,Month-to-month,Yes
+8203-XULCC,22,67.43,Yes,DSL,Yes,No,Month-to-month,No
+5372-EUMZX,50,75.09,No,Fiber optic,Yes,No,Month-to-month,No
+9128-UMVDC,1,53.41,No,DSL,No,Yes,Month-to-month,Yes
+8601-ONFGA,11,47.22,No,DSL,No,Yes,Month-to-month,Yes
+8690-XSYZL,1,44.32,No,DSL,No,No,Month-to-month,Yes
+8620-TJVVD,33,49.7,No,DSL,No,Yes,Month-to-month,No
+8676-AFPJA,72,65.84,Yes,DSL,No,No,One year,No
+7722-VUMBX,12,71.88,Yes,DSL,No,Yes,Month-to-month,No
+7816-NBIQX,21,91.94,Yes,Fiber optic,No,No,Month-to-month,Yes
+4676-MQFGX,24,46.32,No,DSL,No,Yes,Month-to-month,No
+9155-JCPDF,4,63.02,No,DSL,Yes,Yes,One year,No
+8499-LPQSL,11,35.46,No phone service,DSL,Yes,No,Month-to-month,No
+1779-BSBMK,19,76.6,No,Fiber optic,No,No,Month-to-month,Yes
+9566-RSGQR,8,79.96,No,Fiber optic,No,No,One year,No
+8237-MDXPB,9,99.1,Yes,Fiber optic,No,No,Month-to-month,Yes
+2226-GZFKU,72,73.63,Yes,DSL,Yes,No,Two year,No
+7101-VQTAC,66,85.56,No,Fiber optic,Yes,No,Two year,No
+5991-ZUABG,5,103.64,Yes,Fiber optic,Yes,No,Month-to-month,Yes
+4266-YFRYQ,13,70.92,Yes,DSL,Yes,Yes,One year,No
+7738-XGDAT,20,62.07,No phone service,Fiber optic,Yes,No,Month-to-month,No
+4935-CZSEU,4,80.3,No,Fiber optic,No,Yes,Month-to-month,Yes
+4623-ENCUX,7,64.6,Yes,DSL,No,No,Month-to-month,Yes
+2013-XAWOV,28,33.36,Yes,No,No internet service,No internet service,One year,No
+6288-NQPUC,72,68.82,No phone service,Fiber optic,Yes,Yes,Two year,No
+3797-BOHKA,9,19.69,No,No,No internet service,No internet service,Month-to-month,No
+3741-TAVVL,24,36.28,No phone service,DSL,Yes,Yes,One year,No
+7429-DQFLC,16,50.5,No,DSL,Yes,Yes,Month-to-month,No
+9483-ZOJCS,10,82.31,No,Fiber optic,No,Yes,Month-to-month,No
+5961-WWCJH,37,23.17,No,No,No internet service,No internet service,Two year,No
+9389-TDPZT,72,30.42,Yes,No,No internet service,No internet service,One year,No
+9342-ABCSP,42,48.87,No,DSL,No,No,Month-to-month,No
+5278-NLKPQ,61,77.62,No,Fiber optic,No,No,Two year,Yes
+3296-XTUXV,18,37.25,Yes,No,No internet service,No internet service,Month-to-month,No
+9098-SARWL,18,67.98,No,Fiber optic,No,No,Month-to-month,No
+3061-WEYLS,35,28.27,Yes,No,No internet service,No internet service,Month-to-month,Yes
+2391-GHJIC,36,61.89,Yes,DSL,Yes,No,Two year,No
+7635-LZRYT,29,40.92,Yes,No,No internet service,No internet service,Month-to-month,No
+7601-VZTHG,72,70.27,No,Fiber optic,No,No,Two year,No
+9609-KAGXX,72,32.77,No phone service,DSL,Yes,No,One year,No
+1165-IUUXU,28,96.54,Yes,Fiber optic,Yes,No,Month-to-month,No
+4303-NCVIQ,23,31.66,No phone service,DSL,Yes,Yes,One year,No
+5850-JNZEN,20,18.25,No,No,No internet service,No internet service,Month-to-month,No
+4541-QNYKX,41,27.43,Yes,No,No internet service,No internet service,One year,No
+1115-RZCFH,15,29.24,No phone service,DSL,Yes,Yes,One year,No
+1491-XAGSZ,22,21.34,No,No,No internet service,No internet service,One year,No
+4895-ELRRT,16,18.88,No,No,No internet service,No internet service,Two year,No
+3109-TGGAR,3,44.69,No,DSL,No,No,Month-to-month,Yes
+4329-FGZQP,72,51.11,No,DSL,No,No,Two year,No
+9183-RPSHB,4,100.26,Yes,Fiber optic,No,No,Month-to-month,Yes
+1095-BAJDC,51,55.94,Yes,DSL,No,No,Two year,No
+9791-MZRHU,27,42.93,No,DSL,No,No,Two year,No
+9894-ECHKR,72,66.56,No phone service,Fiber optic,No,Yes,Two year,No
+5417-LSCYI,19,78.84,No,Fiber optic,No,Yes,Month-to-month,No
+2132-VAVFW,20,95.2,Yes,Fiber optic,No,Yes,Month-to-month,Yes
+8685-URHAE,72,21.37,No,No,No internet service,No internet service,Two year,No
+8166-XERPR,50,70.96,Yes,DSL,Yes,Yes,Two year,No
+2947-EDCZJ,5,28.9,Yes,No,No internet service,No internet service,Month-to-month,No
+4627-QOFBA,47,96.74,Yes,Fiber optic,Yes,No,Two year,No
+6831-WDZJS,20,29.01,Yes,No,No internet service,No internet service,Month-to-month,No
+9926-DUGJN,14,73.1,Yes,DSL,Yes,Yes,Month-to-month,No
+9219-CGUHJ,39,18.25,No,No,No internet service,No internet service,One year,No
+9763-TFFFJ,4,102.16,Yes,Fiber optic,No,Yes,Month-to-month,Yes
+4148-JQMWB,17,18.25,No,No,No internet service,No internet service,Month-to-month,No
+5904-RVGAL,55,86.78,No,Fiber optic,Yes,Yes,Month-to-month,No
+6740-DLSCD,6,83.2,No,Fiber optic,Yes,Yes,Month-to-month,No
+2867-MEFLD,7,50.81,No,DSL,Yes,No,Month-to-month,Yes
+7695-BJMYO,70,85.85,No,Fiber optic,Yes,Yes,Month-to-month,Yes
+4295-BFTOW,52,38.33,No phone service,DSL,Yes,No,One year,No
+2266-ZWCYN,72,54.59,No,DSL,No,Yes,One year,No
+9530-GEWFC,71,48.01,No,DSL,Yes,No,One year,No
+3331-GYLTB,12,18.25,No,No,No internet service,No internet service,Two year,No
+9388-LIFRJ,39,80.61,No,Fiber optic,No,No,Month-to-month,Yes
+6337-DZMEA,17,34.37,Yes,No,No internet service,No internet service,Month-to-month,Yes
+4011-QNAMT,8,18.25,No,No,No internet service,No internet service,Month-to-month,No
+3331-NGMPQ,24,41.81,Yes,No,No internet service,No internet service,Month-to-month,No
+7085-DUYTW,61,78.72,No,Fiber optic,No,No,Two year,No
+2445-JXEFP,21,47.21,No,DSL,No,No,Month-to-month,No
+1726-XCFAL,5,52.77,No,DSL,No,Yes,Month-to-month,Yes
+2449-DETPY,72,99.75,Yes,Fiber optic,No,Yes,One year,No
+7287-KRAYG,13,72.77,No,Fiber optic,No,No,Month-to-month,No
+8044-MNYMZ,29,102.93,Yes,Fiber optic,Yes,Yes,Month-to-month,No
+7703-QFVFZ,6,39.76,No,DSL,No,No,One year,No
+5139-LFYIK,10,44.25,No,DSL,No,No,One year,No
+2682-IRAJE,22,53.31,No,DSL,Yes,No,Month-to-month,No
+6000-VAPGL,55,57.71,No phone service,Fiber optic,No,No,One year,No
+9684-OSDGD,8,70.3,No,Fiber optic,No,No,Month-to-month,No
+6720-YDDNP,25,76.96,Yes,DSL,No,No,Month-to-month,Yes
+1622-XBGEP,18,78.08,No,Fiber optic,Yes,No,One year,No
+3925-LKXRW,9,21.84,No,No,No internet service,No internet service,Month-to-month,No
+4282-YGYKB,8,36.59,Yes,No,No internet service,No internet service,Month-to-month,No
+6915-XCAHH,12,71.31,No,Fiber optic,Yes,No,One year,No
+2017-ZWKNW,8,83.77,No,Fiber optic,Yes,Yes,One year,No
+5066-UQNDG,15,42.56,Yes,No,No internet service,No internet service,Month-to-month,No
+9359-RPUXZ,64,18.25,No phone service,No,No internet service,No internet service,One year,No
+1832-FBXOE,24,38.25,Yes,No,No internet service,No internet service,Month-to-month,No
+6349-RGGJN,72,71.65,No,Fiber optic,No,No,Two year,No
+5711-RBTQM,12,33.74,Yes,No,No internet service,No internet service,Month-to-month,Yes
+3349-RUAMR,19,59.09,No phone service,Fiber optic,No,No,Month-to-month,Yes
+5490-SQEYU,7,71.16,No,Fiber optic,Yes,No,Month-to-month,No
+1519-GLYFK,49,38.02,Yes,No,No internet service,No internet service,Two year,No
+7198-ZXGTJ,28,73.94,No,Fiber optic,No,No,Month-to-month,No
+2586-RTDFF,39,49.67,No,DSL,Yes,No,One year,No
+9636-GADKK,22,68.14,Yes,DSL,No,Yes,Two year,No
+9877-CPYPJ,19,66.87,No,DSL,Yes,No,Two year,No
+1432-SLEMA,9,68.69,Yes,DSL,No,No,Month-to-month,Yes
+5718-REJZT,5,54.53,No,DSL,Yes,No,Month-to-month,No
+6547-VQQSZ,10,18.25,No,No,No internet service,No internet service,One year,Yes
+9089-FTHGV,35,60.25,Yes,DSL,No,No,One year,No
+7330-PWWPF,4,73.98,Yes,DSL,Yes,Yes,Month-to-month,No
+5461-ANSHB,7,44.58,No phone service,DSL,Yes,Yes,Month-to-month,No
+5317-AESAF,19,20.35,No phone service,No,No internet service,No internet service,Month-to-month,No
+4477-GSZAC,2,50.63,No,DSL,No,No,Month-to-month,No
+4886-YZDIN,47,91.22,Yes,Fiber optic,No,No,One year,No
+3024-IKMGB,5,103.61,Yes,Fiber optic,No,No,Month-to-month,Yes
+7402-CECQS,4,18.25,No,No,No internet service,No internet service,Month-to-month,Yes
+6375-GUSIM,11,95.6,Yes,Fiber optic,No,No,Month-to-month,No
+5870-EYOBE,9,97.24,Yes,Fiber optic,No,No,Month-to-month,Yes
+5893-SKSFU,11,35.13,Yes,No,No internet service,No internet service,Month-to-month,No
+4747-UCPES,72,18.25,No,No,No internet service,No internet service,Two year,No
+8700-UUGCR,15,56.71,No phone service,Fiber optic,No,Yes,Month-to-month,Yes
+6897-ODFPC,10,44.36,No,DSL,No,No,Month-to-month,No
+2884-QGGLN,41,18.25,No,No,No internet service,No internet service,One year,No
+6460-SASFH,17,78.71,No,Fiber optic,No,Yes,Month-to-month,Yes
+4723-QRPXF,6,92.24,Yes,Fiber optic,Yes,No,Month-to-month,No
+1792-IRGEF,30,62.75,No phone service,Fiber optic,No,No,Two year,No
+4083-UVSYU,26,74.22,Yes,DSL,Yes,Yes,Two year,Yes
+4228-IISBP,9,60.48,Yes,DSL,No,No,One year,No
+7541-CBNDY,13,62.09,Yes,DSL,No,No,Month-to-month,No
+9043-WMFDN,8,33.54,Yes,No,No internet service,No internet service,Month-to-month,No
+4656-NJSNU,12,105.91,Yes,Fiber optic,No,Yes,Month-to-month,No
+2431-CBKMG,15,92.53,Yes,Fiber optic,No,No,Month-to-month,Yes
+7588-RFIMS,8,19.54,No,No,No internet service,No internet service,Month-to-month,No
+5694-UJLYY,37,52.51,No,DSL,Yes,No,Month-to-month,No
+1305-QCLQH,34,61.39,No,DSL,No,Yes,One year,No
+6732-AZXDM,12,23.66,No phone service,No,No internet service,No internet service,Month-to-month,No
+4715-QHBTU,15,70.3,No,Fiber optic,No,No,Month-to-month,Yes
+2080-LCKCZ,72,85.36,No,Fiber optic,No,Yes,Two year,No
+9102-BHTDC,5,47.54,No,DSL,No,No,Month-to-month,Yes
+2801-BENVE,24,81.35,No,Fiber optic,No,Yes,Month-to-month,Yes
+6682-ETLID,5,73.37,No,Fiber optic,Yes,No,Month-to-month,No
+3904-GZDGT,66,45.1,No,DSL,No,No,Two year,No
+4593-XXMYP,9,71.79,No,Fiber optic,No,No,One year,No
+6394-HMSTD,12,94.18,Yes,Fiber optic,No,No,Month-to-month,No
+1254-FYCVI,17,78.9,No,Fiber optic,No,No,One year,No
+2136-GGMZD,10,18.25,No,No,No internet service,No internet service,Month-to-month,No
+2863-WIETI,27,61.82,Yes,DSL,No,Yes,Month-to-month,No
+7901-EKVWO,62,33.35,Yes,No,No internet service,No internet service,One year,No
+3334-ATPXY,44,99.1,Yes,Fiber optic,Yes,No,Two year,No
+7138-IWVGJ,26,103.48,Yes,Fiber optic,Yes,No,Two year,Yes
+7865-JJJCF,56,18.25,No phone service,No,No internet service,No internet service,One year,No
+8227-XKQXT,5,37.82,No,DSL,No,Yes,Month-to-month,No
+6611-GXUZS,3,18.25,No phone service,No,No internet service,No internet service,Month-to-month,No
+3169-TVGRJ,41,78.61,No,Fiber optic,Yes,Yes,Two year,No
+2985-VDOIV,13,71.77,No,Fiber optic,No,No,Month-to-month,Yes
+5873-IVWWD,16,61.15,No phone service,Fiber optic,Yes,Yes,Month-to-month,Yes
+2744-YTRQB,30,57.86,No phone service,Fiber optic,No,No,One year,Yes
+8729-WOLIU,72,34.25,Yes,No,No internet service,No internet service,Two year,No
+6508-UWFIG,22,85.09,Yes,DSL,Yes,Yes,Two year,No
+4928-CIAUF,10,96.31,Yes,Fiber optic,No,No,Month-to-month,No
+2835-BBTFM,8,70.78,No,Fiber optic,No,No,Month-to-month,No
+6132-KUYIQ,27,56.25,No,DSL,Yes,Yes,Month-to-month,No
+4810-XMXTI,23,18.25,No,No,No internet service,No internet service,Two year,No
+4691-WOCPV,15,49.13,No,DSL,No,No,Two year,No
+7895-NMKWR,12,64.1,Yes,DSL,No,No,Month-to-month,Yes
+7659-FJJYS,27,22.46,No,No,No internet service,No internet service,Two year,No
+6405-DXAPL,18,51.55,No,DSL,No,No,Month-to-month,No
+6650-SLCNV,1,55.99,No,DSL,Yes,No,Month-to-month,No
+7447-UJFTU,25,50.15,No,DSL,Yes,No,Month-to-month,Yes
+7761-FWZLJ,17,81.5,No,Fiber optic,No,No,Month-to-month,No
+6851-SYFHI,10,74.4,No,Fiber optic,No,No,Month-to-month,Yes
+9723-TEONR,8,18.25,No,No,No internet service,No internet service,Month-to-month,No
+6099-DYZOU,40,83.57,Yes,Fiber optic,No,No,One year,No
+8007-EXOTW,11,94.77,Yes,Fiber optic,Yes,No,Month-to-month,Yes
+8168-JYFAN,59,33.08,Yes,No,No internet service,No internet service,Two year,No
+6152-XXYNY,72,28.64,No phone service,DSL,No,No,Two year,No
+4835-ODQUL,15,23.24,No,No,No internet service,No internet service,Month-to-month,No
+3289-PGHKN,30,42.55,No,DSL,No,No,Month-to-month,No
+1919-MCAIS,68,65.21,Yes,DSL,Yes,No,Two year,No
+5617-TGGNE,8,99.06,Yes,Fiber optic,Yes,No,Month-to-month,Yes
+6851-PXFPS,34,35.55,No phone service,DSL,No,No,Month-to-month,Yes
+9516-TSSHV,24,42.77,No,DSL,No,No,Month-to-month,No
+8784-YBYLC,19,79.4,No,Fiber optic,No,No,Two year,Yes
+9864-BURDL,38,72.84,Yes,DSL,No,No,One year,No
+4447-QZITG,46,89.34,Yes,Fiber optic,No,No,Month-to-month,No
+2104-FEKQH,27,43.76,No,DSL,No,No,Month-to-month,Yes
+6622-EFCFI,24,37.24,No,DSL,No,No,Month-to-month,No
+7052-NEMLZ,10,83.68,No,Fiber optic,No,No,Month-to-month,Yes
+7663-MYMFP,44,69.59,Yes,DSL,No,Yes,Two year,No
+1203-DEBSZ,62,94.26,Yes,Fiber optic,No,No,Two year,No
+5561-KJLJR,7,18.25,No,No,No internet service,No internet service,Month-to-month,No
+1970-KDWOA,2,18.25,No,No,No internet service,No internet service,Month-to-month,No
+9549-WSJQX,41,90.13,Yes,Fiber optic,No,No,Month-to-month,Yes
+4342-KLHOR,25,57.26,No,DSL,Yes,Yes,Two year,No
+5010-TYDJW,72,79.32,No,Fiber optic,Yes,No,One year,No
+1868-UPRIY,26,42.29,No,DSL,No,Yes,One year,No
+2053-OKEDX,14,60.46,No,DSL,No,Yes,One year,No
+6855-UAIMM,5,81.48,No,Fiber optic,No,Yes,Month-to-month,Yes
+3244-JXJNY,72,53.93,No,DSL,Yes,No,Two year,No
+5486-QMIKP,11,20.57,No phone service,No,No internet service,No internet service,Month-to-month,No
+1809-UGJKJ,8,59.51,No,DSL,Yes,Yes,One year,No
+4468-XOHIV,19,65.18,No phone service,Fiber optic,No,No,Month-to-month,No
+9381-ERAFB,14,62.59,Yes,DSL,No,No,Month-to-month,No
+8659-UDFBG,26,41.35,No,DSL,No,No,Two year,No
+7379-TSXYO,8,75.69,No,Fiber optic,No,No,Month-to-month,Yes
+4203-XCYLF,8,91.76,Yes,Fiber optic,No,No,Month-to-month,No
+5973-TWKCW,14,53.58,No phone service,Fiber optic,No,No,Month-to-month,Yes
+3223-TPZAB,20,74.82,No,Fiber optic,No,Yes,One year,No
+2438-DASQC,5,66.55,Yes,DSL,No,No,Month-to-month,Yes
+3556-EEPRZ,28,79.83,No,Fiber optic,No,Yes,Month-to-month,No
+7298-JZLKG,35,64.4,Yes,DSL,No,No,Month-to-month,No
+1201-GZZSE,12,18.25,No,No,No internet service,No internet service,Month-to-month,No
+6083-EDJTB,14,18.25,No,No,No internet service,No internet service,Month-to-month,No
+7500-NRALU,28,49.2,No,DSL,No,Yes,Month-to-month,No
+1130-OLWPI,8,23.13,No,No,No internet service,No internet service,Month-to-month,Yes
+6806-KYWXO,39,72.29,No,Fiber optic,No,No,One year,No
+1593-DEJRA,33,47.21,No,DSL,No,No,Month-to-month,No
+4740-UUNAU,37,36.83,Yes,No,No internet service,No internet service,Two year,No
+1094-KROSK,5,96.55,Yes,Fiber optic,No,Yes,Two year,No
+8354-YYYPI,4,80.84,No,Fiber optic,No,No,Month-to-month,No
+7157-JGXUU,7,49.88,No,DSL,Yes,No,Month-to-month,Yes
+3979-VZRIT,44,18.25,No,No,No internet service,No internet service,Two year,No
+7671-GPEWM,2,40.9,No,DSL,No,No,Month-to-month,No
+2927-HXCYT,11,73.29,No,Fiber optic,Yes,No,Two year,No
+5085-DTOXP,19,46.23,No phone service,Fiber optic,No,No,Month-to-month,No
+1299-LYCUC,48,49.63,No,DSL,Yes,No,One year,No
+9912-HCWLS,12,76.85,No,Fiber optic,Yes,No,Month-to-month,No
+2598-GSQCM,67,53.08,No,DSL,No,Yes,One year,No
+5017-SFRHJ,72,63.62,No phone service,Fiber optic,Yes,No,Two year,No
+5043-XYZLO,29,18.25,No,No,No internet service,No internet service,Month-to-month,No
+2382-VTLWK,14,18.25,No,No,No internet service,No internet service,Two year,No
+3973-YMDTD,47,40.55,Yes,No,No internet service,No internet service,Month-to-month,Yes
+7212-RBZOT,3,83.02,No,Fiber optic,No,No,Month-to-month,Yes
+4997-DQJGV,11,31.25,Yes,No,No internet service,No internet service,Month-to-month,No
+1928-AMCWX,1,48.82,No,DSL,No,No,Month-to-month,No
+1484-AMMSS,18,76.49,No,Fiber optic,No,No,Month-to-month,Yes
+1641-IYEDV,25,53.1,No,DSL,Yes,Yes,One year,No
+1236-DENIE,23,78.78,No,Fiber optic,No,No,Month-to-month,Yes
+8083-YMUGX,24,18.25,No,No,No internet service,No internet service,One year,No
+7084-FXPZU,14,20.79,No phone service,No,No internet service,No internet service,Two year,No
+4491-QNWLC,42,20.8,No,No,No internet service,No internet service,Two year,No
+4737-XURTG,11,46.86,No,DSL,Yes,No,Two year,No
+4108-MVZYE,72,68.56,Yes,DSL,Yes,No,Two year,No
+8070-ROKED,2,67.75,Yes,DSL,No,No,Month-to-month,No
+6285-MMGJO,71,58.01,No phone service,Fiber optic,No,No,Two year,No
+8611-TPEXJ,5,56.64,No,DSL,No,Yes,Month-to-month,No
